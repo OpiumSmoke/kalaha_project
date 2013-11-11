@@ -1,5 +1,8 @@
 package run;
 
+import gui.StartGUI;
+import gui.WindowGUI;
+
 public class Main {
 
 	public Main() {
@@ -11,7 +14,11 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+//		StartGUI start = new StartGUI();
+//		start.showWindow();
+		
+		WindowGUI window = new WindowGUI();
+		window.showWindow();
 
 	}
 

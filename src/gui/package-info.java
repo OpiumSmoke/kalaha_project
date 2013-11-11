@@ -9,6 +9,8 @@
  * depending on playing or testing mode.
  * The most of the package is copied from the previous project and modified.
  * 
+ * window icon: http://theodor.lauppert.ws/games/same-mac.htm
+ * 
  * @author nicky
  *
  */
